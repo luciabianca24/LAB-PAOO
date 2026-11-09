@@ -1,0 +1,3 @@
+/Users/bianca/Desktop/LabPaoo/LAB-PAOO/l2/build/CMakeFiles/l2.dir
+/Users/bianca/Desktop/LabPaoo/LAB-PAOO/l2/build/CMakeFiles/edit_cache.dir
+/Users/bianca/Desktop/LabPaoo/LAB-PAOO/l2/build/CMakeFiles/rebuild_cache.dir
